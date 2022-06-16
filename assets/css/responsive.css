@@ -1,0 +1,35 @@
+@media (max-width:1200px){
+    section{padding: 3rem 2rem;}
+    .services .box-container{gap: 5rem 1.5rem;}
+}
+@media (max-width:991px){
+     html{font-size: 55%;scroll-padding-top: 7rem;}
+    .home .box{background-position: right !important;justify-content: center;}
+    .home .second{background-position: left !important;justify-content: center;}
+    .home .box .content{text-align: center;}
+}
+@media (max-width:768px){
+    .navbar .icons #menu-bar{display: initial;}
+    .header .navbar .menu{display: none;}
+    .side_bar.active{left: 0;}
+    .side_navbar.active{display: block;}
+    .cart_menu.active{display: block;}
+    .body-overly.active{opacity: .3;visibility: visible;}
+    .heading {font-size: 4rem;}
+    .slider.owl-carousel .owl-nav > button {display: none;}
+    .shop .shop-slider .owl-nav  button{display: none;}
+    .services .box-container .box img{top: -41px;}
+    .services .box-container{margin-top: 3rem;}
+    .services::before{height: 105rem;}
+    .client .client-wrap .content{left: 0}
+    .client .client-wrap .client-img img{box-shadow: none;}
+    .about-main .menu .item::before {right: -21px;}
+}
+@media (max-width:450px){
+    html {
+        font-size: 50%;
+      }
+      .heading {
+        font-size: 3rem;
+      }
+}
