@@ -59,11 +59,16 @@
     </section>
     <!-- footer section end........ -->
 
+    
     <!-- jquery scripr file add..... -->
     <script src="./assets/js/jquery-3.6.0.min.js"></script>
+
+    <script src="./assets/js/lightbox2-master/dist/js/lightbox-plus-jquery.min.js"></script>
     <script src="./assets/js/owl.carousel.min.js"></script>
+    
     <!-- wow animation file link -->
     <script src="./assets/js/wow/wow.min.js"></script>
+
     <!-- javascript file add..... -->
     <script src="./assets/js/script.js"></script>
 </body>

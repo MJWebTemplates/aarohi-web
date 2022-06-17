@@ -8,10 +8,13 @@
     <link rel="icon" type="image/x-icon" href="./assets/images/favicon/favicon.ico">
     <!-- font file link..... -->
     <link rel="stylesheet" href="./assets/font/css/all.min.css">
+    
+    <link rel="stylesheet" href="./assets/js/lightbox2-master/dist/css/lightbox.min.css">
     <!-- slider file link -->
     <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="./assets/css/owl.theme.default.min.css">
-
+    
+   
     <!-- css file link...... -->
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/responsive.css">
@@ -19,12 +22,12 @@
 
 <body>
     <!-- preloader section start........ -->
-    <div class="preloader">
+    <!-- <div class="preloader">
         <div class="spinner">
             <div class="dot1"></div>
             <div class="dot2"></div>
         </div>
-    </div>
+    </div> -->
     <!-- preloader section ends........ -->
 
     <!-- backtotop add........ -->
@@ -38,29 +41,29 @@
         <a href="index.php" class="logo"><img src="./assets/images/logo.png" alt="logo"></a>
         <nav class="navbar">
             <ul class="menu">
-                <li><a href="index.php" class="active">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="products.php">Products</a></li>
+                <li><a href="products.php" id="products">Products</a></li>
                 <li><a href="quality-assurance.php">Quality Assurance</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
             </ul>
             <div class="icons">
                 <div class="fas fa-bars" id="menu-bar"></div>
-                <!-- <div class="fas fa-shopping-cart" id='cart-list'></div> -->
-                <div class="fas fa-search" id="search-btn"></div>
+                <!-- <div class="fas fa-shopping-cart" id='cart-list'></div>
+                <div class="fas fa-search" id="search-btn"></div> -->
             </div>
         </nav>
     </header>
     <!-- main header end...... -->
 
     <!-- search form section start...... -->
-    <div class="search_frm">
+    <!-- <div class="search_frm">
         <div class="fas fa-times" id="close_frm"></div>
         <form action="#" class="frm_main">
             <input type="search" name="search" placeholder="search here....">
             <label for="search-box" id="search-box" class="fas fa-search"></label>
         </form>
-    </div>
+    </div> -->
     <!-- search form section end...... -->
 
     <!-- sidebar menu start..... -->
@@ -69,11 +72,11 @@
         <!-- side menu start...... -->
         <nav class="side_navbar">
             <ul class="mobile_menu">
-                <li><i class="fas fa-home"></i><a href="index.php">Home</a></li>
-                <li><i class="fas fa-address-card"></i><a href="about.php">About Us</a></li>
-                <li><i class="fas fa-star"></i><a href="products.php">Products</a></li>
-                <li><i class="fas fa-arrow-alt-circle-right"></i><a href="quality-assurance.php">Quality-Assurance</a></li>
-                <li><i class="fas fa-phone-alt"></i><a href="contact.php">Contact Us</a></li>
+                <li><a href="index.php"><i class="fas fa-home"></i>Home</a></li>
+                <li><a href="about.php"><i class="fas fa-address-card"></i>About Us</a></li>
+                <li><a href="products.php" id="products"><i class="fas fa-star"></i>Products</a></li>
+                <li><a href="quality-assurance.php"><i class="fas fa-arrow-alt-circle-right"></i>Quality-Assurance</a></li>
+                <li><a href="contact.php"><i class="fas fa-phone-alt"></i>Contact Us</a></li>
             </ul>
         </nav>
     </aside>

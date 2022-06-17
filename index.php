@@ -9,7 +9,7 @@
     <section class="home" id="home">
         <div class="owl-carousel slider">
             <div class="item">
-                <div class="box" style="background-image: url(./assets/images/slide-11.jpg);">
+                <div class="box" style="background-image: url(./assets/images/slide/slide-11.jpg);">
                     <div class="content">
                         <!-- <span></span> -->
                         <h3>Brass Products</h3>
@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="item">
-                <div class="box  second" style="background-image: url(./assets/images/slide-22.jpg);">
+                <div class="box  second" style="background-image: url(./assets/images/slide/slide-22.jpg);">
                     <div class="content">
                         <!-- <span>Never Stop</span> -->
                         <h3>steel products</h3>
@@ -31,18 +31,7 @@
                 </div>
             </div>
             <div class="item">
-                <div class="box center-box" style="background-image: url(./assets/images/slide-3.jpg);">
-                    <div class="content">
-                        <!-- <span>Never Stop</span> -->
-                        <h3>Aluminium products</h3>
-                        <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
-                            Consequatur Saepe Aliquam, Excepturi Delectus Consequuntur Minus!</p>
-                        <a href="#" class="btn">Get started</a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="box second" style="background-image: url(./assets/images/slide-4.jpg);">
+                <div class="box second" style="background-image: url(./assets/images/slide/slide-4.jpg);">
                     <div class="content">
                         <!-- <span></span> -->
                         <h3>Copper Products</h3>
@@ -113,14 +102,13 @@
         </div>
         <div class="content">
             <h3>Welcome to Aarohi Corporation</h3>
-            <p>Being a diversified manufacturer and exporter, we make products range from Brass Components,Copper
-                Components, Steel Components & many other product. Aarohi Corporation Products is operating the business
-                products to satisfy the demands of customers with a vision of thoughtfully designed products. Over the
-                past few years, we have improved our Production Process and Quality Control by combining up-to-date
-                technology and well-experienced staffs.</p>
-            <p>We can also develop all our products as per clients specifications and drawings. We Provide Quality
-                Products with Zero Percent Defects at competitive prices.</p>
-            <a href="#" class="btn">read more</a>
+            <p>Aarohi Corporation (AAR) offers professional and effective representation 
+for customized metal solutions and highly precision parts.
+Located in Jamnagar South Gujarat, INDIA. We are positioned to respond 
+to our customers in an efficient manner. Take a look around our site to 
+learn more about us and reach out to see how we can take your product 
+to the next level.</p>
+            <a href="about.php" class="btn">read more</a>
         </div>
     </section>
     <!-- about section end....... -->
@@ -128,22 +116,25 @@
     <!-- Why-We section start..... -->
     <section class="Why-We" id='Why-We'>
         <div class="heading-main">
-            <h1 class="heading">Why We Are ?</h1>
+            <h1 class="heading">Why Choose AAR ?</h1>
         </div>
         <div class="container-main">
             <div class="contant-left contant">
-                <h2><i class="fas fa-check-circle"></i>Spectrometer by SpectroMax Germany - For metal composition
-                    testing</h2>
-                <h2><i class="fas fa-check-circle"></i>Vision Measuring System with Touch Probe</h2>
-                <h2><i class="fas fa-check-circle"></i>Micrometer for Outer Dia</h2>
-                <h2><i class="fas fa-check-circle"></i>Internal Groove Measuring Calipers</h2>
+                <h2><i class="fas fa-check-circle"></i>Service excellence, quality products, and superior client relations makes Aarohi 
+                Corporation a leading name in industrial manufacturing supply of customized 
+                solutions and highly precision part</h2>
+                <h2><i class="fas fa-check-circle"></i>Since 2017, AAR has been focused on exceeding our customers’ expectations.</h2>
+                <h2><i class="fas fa-check-circle"></i>We continuously strives to match the customers’ parts and needs with the best 
+                manufacturing facility available.</h2>
+                <h2><i class="fas fa-check-circle"></i>Our priority is Quality. Quality in our services and our products at very 
+                attractive prices.</h2>
 
             </div>
             <div class="contant-right contant">
-                <h2><i class="fas fa-check-circle"></i>Thread Gauges – Plug & Ring</h2>
-                <h2><i class="fas fa-check-circle"></i>- HIP, BAKER & SIZE CONTROL</h2>
-                <h2><i class="fas fa-check-circle"></i>Thread Pitch Dia Micrometer – BAKER</h2>
-                <h2><i class="fas fa-check-circle"></i>Radius Gauges</h2>
+                <h2><i class="fas fa-check-circle"></i>The materials we process are non-ferrous metals and steel alloys.</h2>
+                <h2><i class="fas fa-check-circle"></i>We are having the best, talented and experienced team members.</h2>
+                <h2><i class="fas fa-check-circle"></i>We are serving over 50 strong companies around the world.</h2>
+                <!-- <h2><i class="fas fa-check-circle"></i>Radius Gauges</h2> -->
             </div>
         </div>
     </section>
@@ -160,89 +151,96 @@
             <div class="item">
                 <div class="box">
                     <div class="images">
+                    <a href="aluminium-turned-parts.php">
                         <div class="image-hover-box">
                             <img src="./assets/images/product-011.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="aluminium-turned-parts.php">Forged Parts</a>
+                                    Forged Parts
                                 </h3>
                             </div>
                             <a href="aluminium-turned-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box">
                     <div class="images">
+                    <a href="aluminium-turned-parts.php">
                         <div class="image-hover-box">
                             <img src="./assets/images/product-022.jpg" alt="product-2">
                             <div class="img-info">
-                                <h3 class="img-title">
-                                    <a href="#">Copper Busbar</a>
-                                </h3>
+                                <h3 class="img-title">Copper Busbar</h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box">
                     <div class="images">
+                    <a href="aluminium-turned-parts.php">
                         <div class="image-hover-box">
                             <img src="./assets/images/product-011.jpg" alt="product-1">
                             <div class="img-info">
-                                <h3 class="img-title">
-                                    <a href="aluminium-turned-parts.php">Aluminium Turned Parts</a>
-                                </h3>
+                                <h3 class="img-title">Aluminium Turned Parts</h3> 
                             </div>
                             <a href="aluminium-turned-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box">
                     <div class="images">
+                    <a href="#">
                         <div class="image-hover-box">
                             <img src="./assets/images/product-011.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Aluminium Turned Parts</a>
+                                    Aluminium Turned Parts
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box">
                     <div class="images">
+                    <a href="#">
                         <div class="image-hover-box">
                             <img src="./assets/images/product-011.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Aluminium Turned Parts</a>
+                                    Aluminium Turned Parts
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             </div>
         </div>
+        <a href="products.php" class="btn">View All</a>
     </section>
     <!-- shop section start..... -->
 

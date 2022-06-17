@@ -24,88 +24,165 @@
             <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
+                    <a href="automotive-parts.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/products/automotive.jpg" alt="product-1">
                             <div class="img-info">
-                                <h3 class="img-title">
-                                    <a href="aluminium-turned-parts.php">Forged Parts</a>
-                                </h3>
+                                <h3 class="img-title">Automotive Parts</h3>
                             </div>
-                            <a href="aluminium-turned-parts.php" class="link-icon">
+                            <a href="automotive-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             <!-- </div> -->
             <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
+                    <a href="fittings.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-022.jpg" alt="product-1">
+                            <img src="./assets/images/products/fitting.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Forged Parts</a>
+                                    Fittings and Valves
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                    </a>
                     </div>
                 </div>
             <!-- </div> -->
             <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                        <a href="#">
+                            <div class="image-hover-box">
+                                <img src="./assets/images/products/decorative.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Forged Parts</a>
+                                    Decorative Parts
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
-                        </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             <!-- </div> -->
             <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
+                        <a href="#">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/products/stamping.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Forged Parts</a>
+                                    Stamping Parts
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                        </a>
                     </div>
                 </div>
             <!-- </div> -->
             <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
+                        <a href="#">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    <a href="#">Forged Parts</a>
+                                   Casting Parts
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
+                        </a>
                     </div>
                 </div>
             <!-- </div> -->
+            <div class="box">
+                    <div class="images">
+                        <a href="#">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Hydraulic Parts
+                                </h3>
+                            </div>
+                            <a href="#" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            <div class="box">
+                    <div class="images">
+                        <a href="#">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Plastic Parts
+                                </h3>
+                            </div>
+                            <a href="#" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            <div class="box">
+                    <div class="images">
+                        <a href="#">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/customized.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Customized Parts
+                                </h3>
+                            </div>
+                            <a href="#" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            <div class="box">
+                    <div class="images">
+                        <a href="#">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/Precision.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                Highly Precision Parts
+
+                                </h3>
+                            </div>
+                            <a href="#" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
         </div>
     </section>
 

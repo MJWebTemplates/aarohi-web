@@ -22,16 +22,10 @@
         <div class="about-info">
             <div class="content">
                 <h2>Welcome to Aarohi Corporation</h2>
-                <p>Aarohi Corporation was established in 1991 and since then is engaged in manufacturing and supplying
-                    high precision brass machined parts to domestic and International markets. We have start to finish
-                    in-house manufacturing facility of over 15000 sq ft that comprises of Casting, Extrusion, Forging,
-                    machining & coating. We have extrusion capacity of 2 tons/day ranging from 2mm to 50mm. Having
-                    mentioned processes, allow us to produce and supply any component in committed time, quality and
-                    price.</p>
-                <p>Our product range comprises from Aluminium Turned Parts, Cable Glands, Connectors, Copper Busbar,
-                    Copper Turned Parts, Earthing Accessories, Electrical Blocks, Electrical Pins, Fastner, Fittings,
-                    Forged Parts, Gun Metal Parts, Inserts, Neutral Links, Nuts & Bolts, Precision Turned Parts, Sheet
-                    Metal Parts, Split Bolts, SS Turned Parts, Switchgear Parts.</p>
+                <p>We are developed with the main plant at Jamnagar having large space occupied Supply
+                and Export unit with best machineries, for manufacturing in house Metal components
+                and fully assured quality control panel. talented and experienced team members, adequate measuring instruments, we are serving the best Our Metal Components Manufacturing Business Grows because of our strengths in Recycling, Casting/Drawing Rods, Machining, Forging and providing customized Fabrication solutions to our customers. The group decided to bring more work in house and Started installing fast and precision metal turning machinery from around the world. We are serving over 50 strong companies around the world.</p>
+
             </div>
             <div class="about-img">
                 <img src="./assets/images/about-01.jpg" alt="">
@@ -48,14 +42,14 @@
             <div class="content">
                 <p>Our core values complies us to fulfill our commitments in terms of Quality, In-time Dispatch. We are bound to provide effective costing to our clients that in turn helps them in achieving their set goals.</p>
             </div>
+         
         </div>
         <div class="box-wrap">
             <div class="heading-main">
                 <h1 class="heading">Our Vision</h1>
             </div>
             <div class="content">
-                <p>Use our Budget planner to keep on top of your spending, use our tool to work out what you have left
-                    after paying your most important bills.</p>
+                <p>To become largest exporter of Metal components by 2025 through innovation, expansion, and achieve zero (tolerance) adverse eﬀect on environment and zero defect on product.</p>
             </div>
         </div>
         <div class="box-wrap">
@@ -63,8 +57,7 @@
                 <h1 class="heading">Our Mission</h1>
             </div>
             <div class="content">
-                <p>Support in person, over the phone and online. Web chat is available from 8am to 8pm or you can give
-                    us a call for free money advice.</p>
+                <p>We will achieve our missing throught continues R & D process by developing our engineering designers team as master in field of our metal components.</p>
             </div>
         </div>
     </section>

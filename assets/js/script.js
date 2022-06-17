@@ -8,16 +8,16 @@ document.querySelector('#menu-bar').onclick = () =>{
     side_menu.classList.add('active');
     side_navbar.classList.add('active');
     overlay.classList.add('active');
-    cartmenu.classList.remove('active');
+    // cartmenu.classList.remove('active');
 };
 
 
 // preloader script
 
-$(window).on('load', function () {
-    $(".preloader").delay(500).fadeOut('slow');
-    $(".spinner").delay(500).fadeOut("slow");
-  });
+// $(window).on('load', function () {
+//     $(".preloader").delay(500).fadeOut('slow');
+//     $(".spinner").delay(500).fadeOut("slow");
+//   });
 
 // side menu  close  script .......... 
 document.querySelector('.arrow').onclick = () =>{
@@ -37,15 +37,15 @@ overlay.onclick = () =>{
 }
 
 //search from add script ............
-let searchfrm = document.querySelector('.search_frm');
-document.querySelector('#search-btn').onclick = () =>{
-    searchfrm.classList.add('active');
-}
+// let searchfrm = document.querySelector('.search_frm');
+// document.querySelector('#search-btn').onclick = () =>{
+//     searchfrm.classList.add('active');
+// }
 
 //side menu search button close script................
-document.querySelector('#close_frm').onclick = () =>{
-    searchfrm.classList.remove('active');
-}
+// document.querySelector('#close_frm').onclick = () =>{
+//     searchfrm.classList.remove('active');
+// }
 
 //scroll web page add header bg color.....
 let header = document.querySelector('.header');
@@ -179,21 +179,44 @@ $('.client_slider').owlCarousel({
 });
 
 // nav menu link active script.............
-$(document).ready(function () {
-    $('.menu').on('click', 'li a', function () {
-      $(this).addClass('active').siblings().removeClass('active');
-    });
-    // $('li').on('click', '.mobile_menu li', function () {
-    //   $(this).addClass('active').siblings().removeClass('active');
-    // });
-  });
+// $(document).ready(function () {
+//     $('.menu').on('click', 'li a', function () {
+//       $(this).addClass('active').siblings().removeClass('active');
+//     });
+//     $('.mobile_menu').on('click', 'li a', function () {
+//       $(this).addClass('active').siblings().removeClass('active');
+//     });
+
+//   });
+
+
+// nav menu link active script.............
+const activePage = location.href;
+const navLink = document.querySelectorAll('.navbar .menu li a');
+const navSubMenu = document.querySelectorAll('.mobile_menu li a');
+const menuLength = navLink.length;
+const submenuLength = navSubMenu.length;
+
+let flagEnable =true;
+for(let i = 0;i<menuLength;i++){
+    if(navLink[i].href === activePage){
+        navLink[i].className="active";
+        flagEnable = false;
+    }
+}
+
+if(flagEnable){
+    var element = document.getElementById("products");
+        element.classList.add("active");
+}
+for(let i = 0;i<submenuLength;i++){
+    if(navSubMenu[i].href === activePage){
+        navSubMenu[i].className="active";
+        flagEnable = false;
+    }  
+}
 
 // Animation function js........
 new WOW().init();
 
-// preloader script
 
-$(window).on('load', function () {
-    $(".preloader").delay(900).fadeOut('slow');
-    $(".spinner").delay(900).fadeOut("slow");
-  });
