@@ -6,9 +6,9 @@
 ?>
 
     <!-- about main section start -->
-    <div class="about-main">
+    <div class="about-main fitting-bg">
         <div class="content">
-            <h2>Fittings and Valves Parts</h2>
+            <h2>Fittings Parts</h2>
             <ul class="menu">
                 <li class="item"><a href="index.php">home</a></li>
                 <li class="item"><a href="products.php">Products</a></li>
@@ -25,15 +25,13 @@
                 <div class="menu-wrap">
                     <ul>
                         <li><a href="automotive-parts.php">Automotive Parts</a></li>
-                        <li><a href="#">Fittings and Valves</a></li>
-                        <li><a href="#">Molding Inserts</a></li>
-                        <li><a href="#">Proximity Sensors</a></li>                        
-                        <li><a href="#">Electric Parts</a></li>
-                        <li><a href="#">Busbar</a></li>
-                        <li><a href="#">Fasteners</a></li>
-                        <li><a href="#">Castings Parts</a></li>
-                        <li><a href="#">Stamping Parts</a></li>
-                        <li><a href="#">Customize Parts</a></li>
+                        <li><a href="fittings.php">Fittings Parts</a></li>
+                        <li><a href="decorative-parts.php">Decorative Parts</a></li>
+                        <li><a href="flange-parts.php">Flange Parts</a></li>                        
+                        <li><a href="hydraulic-parts.php">Hydraulic Parts</a></li>
+                        <li><a href="industrial-gas-parts.php">Industrial Gas Parts</a></li>
+                        <li><a href="precision-parts.php">Precision Parts</a></li>
+                        <li><a href="stamping-parts.php">Stamping Parts</a></li>
                     </ul>
                 </div>
             </div>

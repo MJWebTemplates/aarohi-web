@@ -6,7 +6,7 @@
 ?>
 
     <!-- about main section start -->
-    <div class="about-main">
+    <div class="about-main about-bg">
         <div class="content">
             <h2>about</h2>
             <ul class="menu">
@@ -22,9 +22,7 @@
         <div class="about-info">
             <div class="content">
                 <h2>Welcome to Aarohi Corporation</h2>
-                <p>We are developed with the main plant at Jamnagar having large space occupied Supply
-                and Export unit with best machineries, for manufacturing in house Metal components
-                and fully assured quality control panel. talented and experienced team members, adequate measuring instruments, we are serving the best Our Metal Components Manufacturing Business Grows because of our strengths in Recycling, Casting/Drawing Rods, Machining, Forging and providing customized Fabrication solutions to our customers. The group decided to bring more work in house and Started installing fast and precision metal turning machinery from around the world. We are serving over 50 strong companies around the world.</p>
+                <p>Aarohi Corporation was established in 1991 and since then is engaged in manufacturing and supplying high precision brass machined parts to domestic and International markets. We have start to finish in-house manufacturing facility of over 15000 sq ft that comprises of Casting, Extrusion, Forging, machining & coating. We have extrusion capacity of 2 tons/day ranging from 2mm to 50mm. Having mentioned processes, allow us to produce and supply any component in committed time, quality and price.</p>
 
             </div>
             <div class="about-img">
@@ -49,7 +47,7 @@
                 <h1 class="heading">Our Vision</h1>
             </div>
             <div class="content">
-                <p>To become largest exporter of Metal components by 2025 through innovation, expansion, and achieve zero (tolerance) adverse eﬀect on environment and zero defect on product.</p>
+                <p>Use our Budget planner to keep on top of your spending, use our tool to work out what you have left after paying your most important bills.</p>
             </div>
         </div>
         <div class="box-wrap">
@@ -57,7 +55,7 @@
                 <h1 class="heading">Our Mission</h1>
             </div>
             <div class="content">
-                <p>We will achieve our missing throught continues R & D process by developing our engineering designers team as master in field of our metal components.</p>
+                <p>Support in person, over the phone and online. Web chat is available from 8am to 8pm or you can give us a call for free money advice.</p>
             </div>
         </div>
     </section>

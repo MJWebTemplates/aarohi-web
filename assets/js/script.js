@@ -88,7 +88,9 @@ $('.slider').owlCarousel({
 
 // shop slider script............
 $('.shop-slider').owlCarousel({
-    // loop:true,
+    loop:true,
+    autoplay:true,
+    autoplayTimeout:2000,
     margin:15,
     nav:true,
     dots: false,
@@ -112,71 +114,9 @@ $('.shop-slider').owlCarousel({
     }
 });
 
-// reviews slider script......
-$('.review-slider').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:false,
-    dots: false,
-    responsive:{
-        0:{
-            items:1
-        },
-        645:{
-            items:2
-        },
-        768:{
-            items:3
-        },
-        1024:{
-            items:3
-        }
-    }
-});
 
-// blogs slider script.....
-$('.blog_slider').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:false,
-    dots: false,
-    responsive:{
-        0:{
-            items:1
-        },
-        645:{
-            items:2
-        },
-        768:{
-            items:3
-        },
-        1024:{
-            items:3
-        }
-    }
-});
 
-// client slider script...
-$('.client_slider').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:false,
-    dots: false,
-    responsive:{
-        0:{
-            items:1
-        },
-        645:{
-            items:2
-        },
-        768:{
-            items:3
-        },
-        1024:{
-            items:4
-        }
-    }
-});
+
 
 // nav menu link active script.............
 // $(document).ready(function () {

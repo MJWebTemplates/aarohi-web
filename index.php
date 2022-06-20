@@ -151,15 +151,15 @@ to the next level.</p>
             <div class="item">
                 <div class="box">
                     <div class="images">
-                    <a href="aluminium-turned-parts.php">
+                    <a href="automotive-parts.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/Products/automotive.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    Forged Parts
+                                    Automotive Parts
                                 </h3>
                             </div>
-                            <a href="aluminium-turned-parts.php" class="link-icon">
+                            <a href="automotive-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
@@ -170,13 +170,13 @@ to the next level.</p>
             <div class="item">
                 <div class="box">
                     <div class="images">
-                    <a href="aluminium-turned-parts.php">
+                    <a href="fittings.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-022.jpg" alt="product-2">
+                            <img src="./assets/images/Products/fitting.jpg" alt="product-2">
                             <div class="img-info">
-                                <h3 class="img-title">Copper Busbar</h3>
+                                <h3 class="img-title">Fittings Parts</h3>
                             </div>
-                            <a href="#" class="link-icon">
+                            <a href="fittings.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
@@ -187,13 +187,13 @@ to the next level.</p>
             <div class="item">
                 <div class="box">
                     <div class="images">
-                    <a href="aluminium-turned-parts.php">
+                    <a href="decorative-parts.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/Products/decorative.jpg" alt="product-1">
                             <div class="img-info">
-                                <h3 class="img-title">Aluminium Turned Parts</h3> 
+                                <h3 class="img-title">Decorative Parts</h3> 
                             </div>
-                            <a href="aluminium-turned-parts.php" class="link-icon">
+                            <a href="decorative-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
@@ -204,15 +204,15 @@ to the next level.</p>
             <div class="item">
                 <div class="box">
                     <div class="images">
-                    <a href="#">
+                    <a href="precision-parts.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/Products/precision.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    Aluminium Turned Parts
+                                 Precision Parts
                                 </h3>
                             </div>
-                            <a href="#" class="link-icon">
+                            <a href="precision-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>
@@ -223,15 +223,15 @@ to the next level.</p>
             <div class="item">
                 <div class="box">
                     <div class="images">
-                    <a href="#">
+                    <a href="flange-parts.php">
                         <div class="image-hover-box">
-                            <img src="./assets/images/product-011.jpg" alt="product-1">
+                            <img src="./assets/images/Products/flange-main.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    Aluminium Turned Parts
+                                    Flange Parts
                                 </h3>
                             </div>
-                            <a href="#" class="link-icon">
+                            <a href="flange-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>

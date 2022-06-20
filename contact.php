@@ -6,7 +6,7 @@
 ?>
 
      <!-- about main section start -->
-     <div class="about-main">
+     <div class="about-main contact-bg">
         <div class="content">
             <h2>contact us</h2>
             <ul class="menu">

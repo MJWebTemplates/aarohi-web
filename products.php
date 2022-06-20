@@ -5,7 +5,7 @@
     include 'header.php';
 ?>
 
-    <div class="about-main">
+    <div class="about-main product-bg">
         <div class="content">
             <h2>Our Products</h2>
             <ul class="menu">
@@ -46,7 +46,7 @@
                             <img src="./assets/images/products/fitting.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                    Fittings and Valves
+                                    Fittings
                                 </h3>
                             </div>
                             <a href="#" class="link-icon">
@@ -57,10 +57,10 @@
                     </div>
                 </div>
             <!-- </div> -->
-            <!-- <div class="item"> -->
+           
                 <div class="box">
                     <div class="images">
-                        <a href="#">
+                        <a href="decorative-parts.php">
                             <div class="image-hover-box">
                                 <img src="./assets/images/products/decorative.jpg" alt="product-1">
                             <div class="img-info">
@@ -68,18 +68,85 @@
                                     Decorative Parts
                                 </h3>
                             </div>
-                            <a href="#" class="link-icon">
+                            <a href="decorative-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                             </div>
                         </a>
                     </div>
                 </div>
-            <!-- </div> -->
-            <!-- <div class="item"> -->
                 <div class="box">
                     <div class="images">
-                        <a href="#">
+                        <a href="precision-parts.php">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/Precision.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Highly Precision Parts
+                                </h3>
+                            </div>
+                            <a href="precision-parts.php" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="images">
+                        <a href="hydraulic-parts.php">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/hydraulic.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Hydraulic Parts
+                                </h3>
+                            </div>
+                            <a href="hydraulic-parts.php" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="images">
+                        <a href="industrial-gas-parts.php">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/industrial.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Industrial Gas Parts
+                                </h3>
+                            </div>
+                            <a href="industrial-gas-parts.php" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+               
+                <div class="box">
+                    <div class="images">
+                        <a href="flange-parts.php">
+                        <div class="image-hover-box">
+                            <img src="./assets/images/products/flange-main.jpg" alt="product-1">
+                            <div class="img-info">
+                                <h3 class="img-title">
+                                    Flange Parts
+                                </h3>
+                            </div>
+                            <a href="flange-parts.php" class="link-icon">
+                                <i class="fas fa-arrows-alt"></i>
+                            </a>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="images">
+                        <a href="stamping-parts.php">
                         <div class="image-hover-box">
                             <img src="./assets/images/products/stamping.jpg" alt="product-1">
                             <div class="img-info">
@@ -87,96 +154,7 @@
                                     Stamping Parts
                                 </h3>
                             </div>
-                            <a href="#" class="link-icon">
-                                <i class="fas fa-arrows-alt"></i>
-                            </a>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            <!-- </div> -->
-            <!-- <div class="item"> -->
-                <div class="box">
-                    <div class="images">
-                        <a href="#">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
-                            <div class="img-info">
-                                <h3 class="img-title">
-                                   Casting Parts
-                                </h3>
-                            </div>
-                            <a href="#" class="link-icon">
-                                <i class="fas fa-arrows-alt"></i>
-                            </a>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            <!-- </div> -->
-            <div class="box">
-                    <div class="images">
-                        <a href="#">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
-                            <div class="img-info">
-                                <h3 class="img-title">
-                                    Hydraulic Parts
-                                </h3>
-                            </div>
-                            <a href="#" class="link-icon">
-                                <i class="fas fa-arrows-alt"></i>
-                            </a>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            <div class="box">
-                    <div class="images">
-                        <a href="#">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/products/product-011.jpg" alt="product-1">
-                            <div class="img-info">
-                                <h3 class="img-title">
-                                    Plastic Parts
-                                </h3>
-                            </div>
-                            <a href="#" class="link-icon">
-                                <i class="fas fa-arrows-alt"></i>
-                            </a>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            <div class="box">
-                    <div class="images">
-                        <a href="#">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/products/customized.jpg" alt="product-1">
-                            <div class="img-info">
-                                <h3 class="img-title">
-                                    Customized Parts
-                                </h3>
-                            </div>
-                            <a href="#" class="link-icon">
-                                <i class="fas fa-arrows-alt"></i>
-                            </a>
-                        </div>
-                        </a>
-                    </div>
-                </div>
-            <div class="box">
-                    <div class="images">
-                        <a href="#">
-                        <div class="image-hover-box">
-                            <img src="./assets/images/products/Precision.jpg" alt="product-1">
-                            <div class="img-info">
-                                <h3 class="img-title">
-                                Highly Precision Parts
-
-                                </h3>
-                            </div>
-                            <a href="#" class="link-icon">
+                            <a href="stamping-parts.php" class="link-icon">
                                 <i class="fas fa-arrows-alt"></i>
                             </a>
                         </div>

@@ -24,6 +24,14 @@
     .client .client-wrap .content{left: 0}
     .client .client-wrap .client-img img{box-shadow: none;}
     .about-main .menu .item::before {right: -21px;}
+    .vision-mission .box-wrap .content{height: auto;}
+    .services .box-container .box .content{height: 30rem;}
+    .about .image{order: 2;}
+    .about .image img {width: 70%;margin-left: 8rem;}
+    .about-wrap .about-info .about-img img{width: 65%;margin-left: 8rem;}
+    .contact-frm .row .contact-form {padding: 2rem;}
+    .contact .container .contact-box .box {height: 175px;}
+    .cont-wrap .contact-had {width: 100%;}
 }
 @media (max-width:450px){
     html {

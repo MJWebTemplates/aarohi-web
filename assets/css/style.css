@@ -973,7 +973,7 @@ section{padding: 5rem 9%;}
 
 /* about page section start css */
 .about-main{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/about-main.jpg');
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/about-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1028,11 +1028,14 @@ section{padding: 5rem 9%;}
     gap: 2rem;
 }
 .about-wrap .about-info .content{
-    flex: 1 1 52rem;
+    flex: 1 1 62rem;
     padding:3rem 4rem;
     background: var(--white);
     z-index: 1;
     position: relative;
+}
+.about-wrap .about-info .about-img{
+    flex: 1 1 12rem;
 }
 .about-wrap .about-info .content h2{
     font-size: 4rem;
@@ -1061,6 +1064,10 @@ section{padding: 5rem 9%;}
     grid-template-columns: repeat(auto-fit,minmax(32rem,1fr));
     gap: 1.5rem;
     align-items:flex-start;
+}
+.vision-mission .box-wrap .content{
+    background-color:#eee;
+    height: 160px;
 }
 .client .client-wrap .content{
     flex: 1 1 42rem;
@@ -1325,7 +1332,7 @@ section{padding: 5rem 9%;}
 .product-main .product-info .product-box .pro-img img{
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
 }
 .product-main .product-info .product-box .pro-img .icon{
     position: absolute;
@@ -1359,4 +1366,64 @@ section{padding: 5rem 9%;}
     opacity: 1;
     transition: all 0.5s;
    
+}
+.automotive{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/automative-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fitting-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/fitting-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/product-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.decorative-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/decorative-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.flange-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/flange-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hydraulic-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/hydraulic-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.industrial-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/industrial-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.stamping-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/stamping-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.precision-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/precision-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contact-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/contact-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }

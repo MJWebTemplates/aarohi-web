@@ -25,8 +25,7 @@
             </div>
             <div class="qual-content">
                 <span class="heading-detail">Quality Assurance</span>
-                <p>Quality Assurance is a critical part of the production process at Aarohi Corporation. Every customer 
-has different requirements for each and every parts that needs to be met to ensure that the all the 
+                <p>Quality Assurance is a critical part of the production process at Aarohi Corporation. Every customer has different requirements for each and every parts that needs to be met to ensure that the all the 
 parts functions properly. The Quality Assurance team of Aarohi Corporation is there for every step of 
 the way to ensure that our parts meet the requirements set forth by our customers. They are involved 
 from initial order to delivery of production. They are reviewing all the process starting with a 
