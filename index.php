@@ -11,33 +11,30 @@
             <div class="item">
                 <div class="box" style="background-image: url(./assets/images/slide/slide-11.jpg);">
                     <div class="content">
-                        <!-- <span></span> -->
                         <h3>Brass Products</h3>
-                        <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
+                        <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
                             Consequatur Saepe Aliquam,</p>
-                        <a href="#" class="btn">Get started</a>
+                        <a href="#" class="btn">Get started</a> -->
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box  second" style="background-image: url(./assets/images/slide/slide-22.jpg);">
                     <div class="content">
-                        <!-- <span>Never Stop</span> -->
                         <h3>steel products</h3>
-                        <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
+                        <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
                             Consequatur Saepe Aliquam, Excepturi Delectus Consequuntur Minus!</p>
-                        <a href="#" class="btn">Get started</a>
+                        <a href="#" class="btn">Get started</a> -->
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="box second" style="background-image: url(./assets/images/slide/slide-4.jpg);">
                     <div class="content">
-                        <!-- <span></span> -->
                         <h3>Copper Products</h3>
-                        <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
+                        <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
                             Consequatur Saepe Aliquam,</p>
-                        <a href="#" class="btn">Get started</a>
+                        <a href="#" class="btn">Get started</a> -->
                     </div>
                 </div>
             </div>
