@@ -1302,9 +1302,11 @@ section{padding: 5rem 9%;}
     letter-spacing: 1px;
     line-height: 27px;
     margin-bottom: 2rem;
+    padding-left: 1rem;
 }
 .product-main .product-info ul{
     padding-left: 2rem;
+    padding-top: 1rem;
 }
 .product-main .product-info ul li{
     font-size: 1.6rem;
@@ -1391,8 +1393,8 @@ section{padding: 5rem 9%;}
     background-size: cover;
     background-repeat: no-repeat;
 }
-.flange-bg{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/flange-bg.jpg');
+.customize-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/customize-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

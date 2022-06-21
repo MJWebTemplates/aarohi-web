@@ -8,11 +8,11 @@
 <!-- about main section start -->
 <div class="about-main automotive">
     <div class="content">
-        <h2>Automotive Parts</h2>
+        <h2>Casting Parts</h2>
         <ul class="menu">
             <li class="item"><a href="index.php">home</a></li>
             <li class="item"><a href="products.php">Products</a></li>
-            <li><a href="automotive-parts.php">Automotive Parts</a></li>
+            <li><a href="casting-parts.php">Casting Parts</a></li>
         </ul>
 
     </div>
@@ -24,7 +24,7 @@
         <div class="product-menu">
             <div class="menu-wrap">
                 <ul>
-                    <li><a href="casting-parts.php">Casting Parts</a></li>
+                    <li><a href="automotive-parts.php">Automotive Parts</a></li>
                     <li><a href="fittings.php">Fittings and Valves Parts</a></li>
                     <li><a href="decorative-parts.php">Decorative Parts</a></li>
                     <li><a href="precision-parts.php">Highly Precision Parts</a></li>
@@ -36,23 +36,38 @@
             </div>
         </div>
         <div class="product-info">
-            <h2>Automotive Parts</h2>
+            <h2>Casting Parts</h2>
             <h3>Features:</h3>
-            <p>Supplied as per international standard. Excellent surface Finish, accuracy from
-                Automatic and Semi Automatic machine CNC And VMC Machines.</p>
+            <p>We supply Investment casting, Sand casting , Die casting, parts, for fittings & Valve , automotive, home
+                appliances and we are outsourcing castings from our reliable sources.</p>
             <h3>Material:</h3>
-            <p>Stainless Steel, Mild Steel, Aluminium and Brass, Titanium And Bronze.
-                As per requirement of product applicaon.</p>
+            <p>Aluminum, Stainless steel, Mild steel.</p>
+            <h3>Investment Casting Production Method:</h3>
             <ul>
-                <li><strong>Size :</strong>1 mm to 1200 length and Diameter 1mm to 200mm.</li>
-                <li><strong>Finishing & Coating :</strong>Natural, nickel, tin, silver, chrome plated, sand blasted,
-                    annealed, Etc. Or any coating as per customer specification.</li>
-                <li><strong>Threads :</strong>ISO metric, ba threads, bsw threads.unc & unf threads.bsp, bspt, npt and
-                    any international standard type.
-                </li>
+                <li>Metal Die Construction</li>
+                <li>Wax Pattern Production</li>
+                <li>Mold Creation</li>
+                <li>Pouring</li>
+                <li>Cooling</li>
+                <li>Shakeout</li>
+                <li>Finishing</li>
             </ul>
-
-            <div class="product-box">
+            <h3>Sand Casting Production Method:</h3>
+            <ul>
+                <li>Creating Mold</li>
+                <li>Pouring the metal into the mold</li>
+                <li>Shakeout Operations</li>
+                <li>Casting final operations</li>
+            </ul>
+            <h3>Die Casting Production Method:</h3>
+            <ul>
+                <li>Metal Die Construction </li>
+                <li>Casting</li>
+                <li>Inspection & Straightening</li>
+                <li>Heat Treatment</li>
+                <li>Shot Blasting </li>
+            </ul>
+            <!-- <div class="product-box">
                 <div class="pro-img">
                     <img src="assets/images/products/Automotive-Parts/part-01.jpg" alt="">
                     <a href="assets/images/products/Automotive-Parts/part-01.jpg" class="example-image-link"
@@ -90,7 +105,7 @@
                         <span class="icon"><i class="fas fa-eye"></i></span>
                     </a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
