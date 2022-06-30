@@ -1028,7 +1028,7 @@ section{padding: 5rem 9%;}
     gap: 2rem;
 }
 .about-wrap .about-info .content{
-    flex: 1 1 62rem;
+    flex: 1 1 34rem;
     padding:3rem 4rem;
     background: var(--white);
     z-index: 1;
@@ -1045,7 +1045,7 @@ section{padding: 5rem 9%;}
     content: '';
     position: absolute;
     top: 58px;
-    right: 12%;
+    right: 23%;
     width: 60px;
     height: 3px;
     background-color: var(--primary);
@@ -1053,6 +1053,8 @@ section{padding: 5rem 9%;}
 .about-wrap .about-info .content p{
     font-size: 1.7rem;
     padding: 2rem 0;
+    line-height: 2;
+    word-spacing: 4px;
     text-align: justify;
 }
 
@@ -1067,13 +1069,15 @@ section{padding: 5rem 9%;}
 }
 .vision-mission .box-wrap .content{
     background-color:#eee;
-    height: 160px;
+    height:231px;
 }
 .client .client-wrap .content{
     flex: 1 1 42rem;
     position: relative;
     padding: 4rem 3rem;
 } .content p{
+    line-height: 2;
+    word-spacing: 2px;
     font-size: 1.7rem;
     padding: 2rem;
     text-align: justify;

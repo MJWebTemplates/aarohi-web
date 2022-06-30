@@ -11,6 +11,9 @@
 @media (max-width:768px){
     .navbar .icons #menu-bar{display: initial;}
     .header .navbar .menu{display: none;}
+    .home .box{min-height: 58vh;}
+    .home .box{background-position: left !important;justify-content: center;}
+    .home .second{background-position: right !important;justify-content: center;}
     .side_bar.active{left: 0;}
     .side_navbar.active{display: block;}
     .cart_menu.active{display: block;}
@@ -32,6 +35,8 @@
     .contact-frm .row .contact-form {padding: 2rem;}
     .contact .container .contact-box .box {height: 175px;}
     .cont-wrap .contact-had {width: 100%;}
+    .about-wrap .about-info .content h2::before{top: 46px;right: 11%;}
+    .about-main .content{min-height: 45vh;}
 }
 @media (max-width:450px){
     html {
