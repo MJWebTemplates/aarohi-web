@@ -43,7 +43,8 @@
             <ul class="menu">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="products.php" id="products">Products</a></li>
+                <li><a href="products.php">Products</a></li>
+                <li><a href="manufacturingcapability.php">MF Capability</a></li>
                 <li><a href="quality-assurance.php">Quality Assurance</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
             </ul>
@@ -74,7 +75,8 @@
             <ul class="mobile_menu">
                 <li><a href="index.php"><i class="fas fa-home"></i>Home</a></li>
                 <li><a href="about.php"><i class="fas fa-address-card"></i>About Us</a></li>
-                <li><a href="products.php" id="products"><i class="fas fa-star"></i>Products</a></li>
+                <li><a href="products.php"><i class="fas fa-star"></i>Products</a></li>
+                <li><a href="manufacturingcapability.php"><i class="fas fa-industry"></i>MF Capability</a></li>
                 <li><a href="quality-assurance.php"><i class="fas fa-arrow-alt-circle-right"></i>Quality-Assurance</a></li>
                 <li><a href="contact.php"><i class="fas fa-phone-alt"></i>Contact Us</a></li>
             </ul>

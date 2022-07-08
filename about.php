@@ -22,12 +22,9 @@ include 'header.php';
     <div class="about-info">
         <div class="content">
             <h2>Welcome to Aarohi Corporation</h2>
-            <p>Aarohi Corporation was established in 1991 and since then is engaged in manufacturing and supplying high
-                precision brass machined parts to domestic and International markets. We have start to finish in-house
-                manufacturing facility of over 15000 sq ft that comprises of Casting, Extrusion, Forging, machining &
-                coating. We have extrusion capacity of 2 tons/day ranging from 2mm to 50mm. Having mentioned processes,
-                allow us to produce and supply any component in committed time, quality and price.</p>
-
+            <p>Aarohi Corporation.has been a world-class leader in manufacturing of Precision Machining Parts, Mechanical Assemblies. Our state-of-the-art manufacturing facility is located in Rajkot, Gujarat, India.
+            </p>
+            <p>We have achieved success by doing business as a partner with our customers. Hydrobenz Industries Pvt. Ltd. is a partnership company. Our goal is to provide solutions for your toughest manufacturing problems. Your Complete </p>
         </div>
         <div class="about-img">
             <img src="./assets/images/about-02.jpg" alt="">
@@ -39,31 +36,36 @@ include 'header.php';
 <section class="vision-mission">
     <div class="box-wrap">
         <div class="heading-main">
-            <h1 class="heading">Core Values</h1>
+            <h1 class="heading">Manufacturing Solution</h1>
         </div>
         <div class="content">
-            <p>Our core values complies us to fulfill our commitments in terms of Quality, In-time Dispatch. We are
-                bound to provide effective costing to our clients that in turn helps them in achieving their set goals.
-            </p>
+            <p>Our contract manufacturing operation is customized to fit our customers' unique needs. From process design-assist and production layout, to supply chain management that delivers quality products on a "just-in-time" basis at competitive costs, we create a complete manufacturing solution.</p>
         </div>
 
     </div>
     <div class="box-wrap">
         <div class="heading-main">
-            <h1 class="heading">Our Vision</h1>
+            <h1 class="heading">Commitment to Quality</h1>
         </div>
         <div class="content">
-            <p>Use our Budget planner to keep on top of your spending, use our tool to work out what you have left after
-                paying your most important bills.</p>
+            <p>Aarohi Corporation is also ISO 9001 certified Quality Management System ensures product & parts meet the identified tolerance specifications. We will help to lower your costs and ensure a reliable supply of critical components and assemblies are ready when you need them by creating a custom Inventory Management Program with you. View our Quality Policy Statement.</p>
         </div>
     </div>
     <div class="box-wrap">
         <div class="heading-main">
-            <h1 class="heading">Our Mission</h1>
+            <h1 class="heading">Hydraulic Cylinders Manufacturing</h1>
         </div>
         <div class="content">
-            <p>Support in person, over the phone and online. Web chat is available from 8am to 8pm or you can give us a
-                call for free money advice.</p>
+            <p>Company has been always one step ahead of change and innovation has become one of India’s leading hydraulic cylinder manufacturer. Pursuing the aim of harmonizing all its activities with international standards, it progresses step by step to the goal of catching success in the world by exporting to many different countries.</p>
+        </div>
+    </div>
+    <div class="box-wrap">
+        <div class="heading-main">
+            <h1 class="heading">Precision Machining</h1>
+        </div>
+        <div class="content">
+            <p>With a seasoned engineering staff, continuous reinvestment in equipment, technology, and processes, we have remained a dominant leader in the precision machining
+                industry. In the past three years alone, we have reinvested over $950,000 as our sales have grown and our customers continue to outsource their toughest jobs to us.</p>
         </div>
     </div>
 </section>

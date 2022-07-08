@@ -37,7 +37,11 @@
     .cont-wrap .contact-had {width: 100%;}
     .about-wrap .about-info .content h2::before{top: 46px;right: 11%;}
     .about-main .content{min-height: 45vh;}
+    .client .client-wrap .order{order: 2;}
+    .client .client-wrap {gap: 0px;}
+    .client .client-wrap .quality-content .quality-info {margin-top: 0rem;}
 }
+
 @media (max-width:450px){
     html {
         font-size: 50%;

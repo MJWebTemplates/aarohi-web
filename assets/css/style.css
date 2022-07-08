@@ -497,9 +497,13 @@ section{padding: 5rem 9%;}
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: 1rem 3rem 1rem 2rem;
+    padding: 0rem 3rem 1rem 2rem;
     width: 100%;
     text-align: center;
+}
+.shop .image-hover-box .img-info p{
+    margin-top: 1rem;
+    font-size: 1.4rem;
 }
 .shop .image-hover-box .img-info .img-title{
     font-size: 2rem;
@@ -508,6 +512,7 @@ section{padding: 5rem 9%;}
 .shop .image-hover-box:hover .img-info .img-title{
     color: var(--primary);
 }
+.shop .image-hover-box:hover .img-info p{color: var(--white);}
 .shop .image-hover-box a.link-icon{
     position: absolute;
     top: 50px;
@@ -1063,13 +1068,16 @@ section{padding: 5rem 9%;}
 }
 .vision-mission{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(32rem,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(42rem,1fr));
     gap: 1.5rem;
     align-items:flex-start;
 }
+.vision-mission .heading{
+    font-size: 2rem;
+}
 .vision-mission .box-wrap .content{
     background-color:#eee;
-    height:231px;
+    height:240px;
 }
 .client .client-wrap .content{
     flex: 1 1 42rem;
@@ -1077,8 +1085,8 @@ section{padding: 5rem 9%;}
     padding: 4rem 3rem;
 } .content p{
     line-height: 2;
-    word-spacing: 2px;
-    font-size: 1.7rem;
+    word-spacing: 1px;
+    font-size: 1.6rem;
     padding: 2rem;
     text-align: justify;
 }
@@ -1088,60 +1096,84 @@ section{padding: 5rem 9%;}
     padding-bottom: 2rem;
     color: var(--primary);
 }
-
+.quality-service{
+    background: #eee;
+}
 .client .client-wrap{
     display: flex;
     justify-content: space-between;
-    align-items: center;
     gap: 3rem;
     flex-wrap: wrap;
+    margin-bottom: 3rem;
 }
+
 .client .client-wrap .client-img{
-    flex: 1 1 40rem;
+    flex: 1 1 42rem;
     transition: all 0.5s ease-in-out;
+    margin-right: 3rem;
+}
+.client .client-wrap .client-menuf-img{
+    flex: 1 1 32rem;
 }
 .client .client-wrap .client-img img{
     width: 100%;
     box-shadow: 4rem 4rem 0 rgb(0 0 0/10%);
 }
 .client .client-wrap .client-img:hover img{transform: scale(1.1);transition: all 0.5s ease-in-out;}
-.client .client-wrap .qual-content{
-    flex: 1 1 42rem;
-    position: relative;
-    padding: 4rem 3rem;
-}
+
 .client .client-wrap .quality-content{
-    flex: 1 1 42rem;
+    flex: 1 1 40rem;
+}
+.client .client-wrap .quality-content h3{
+    font-size: 2rem;
+    color: var(--primary);
+}
+.client .client-wrap .qut-menuf-contant{
+    flex: 1 1 23rem;
 }
 .client .client-wrap .heading-detail{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: var(--primary);
     font-weight: 700;
-    position: relative;
+}
+.client .client-wrap .heading-include{
+    color:  var(--primary);
+    font-size: 1.7rem;
 }
 .client .client-wrap .quality-content .quality-info{
     margin-top: 2rem;
 }
+.client .client-wrap .quality-content .quality-info ul{
+    padding-left: 2rem;
+    padding-top: 1rem
+}
+.client .client-wrap .quality-content .quality-info ul li{
+    font-size: 1.6rem;
+    list-style: circle;
+    letter-spacing: 1px;
+    padding-bottom: 1rem;
+}
+.client .client-wrap .quality-content .quality-info h3{
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    color: var(--primary);
+}
 .client .client-wrap .quality-content .quality-info h2{
-    padding: 1rem 0;
-    font-size: 1.8rem;
+    padding-bottom: 1.2rem;
+    font-size: 1.4rem;
+}
+.client .client-wrap .quality-content h5{
+    padding-top: 1rem;
+    font-size: 1.4rem;
 }
 .client .client-wrap .quality-content .quality-info i{
+    font-size: 1.2rem;
     margin-right: 1rem;
     color: var(--primary);
 }   
-.client .client-wrap .qual-content .heading-detail::before{
-    content: '';
-    position: absolute;
-    top: 16px;
-    right: -38%;
-    width: 60px;
-    height: 2px;
-    background-color: var(--primary);
 
-}
-.client .client-wrap .qual-content p{
-    font-size: 1.7rem;
+.client .client-wrap .quality-content p{
+    font-size:1.5rem;
     text-align: justify;
     line-height: 1.7;
     padding: 1rem 0;
@@ -1429,6 +1461,18 @@ section{padding: 5rem 9%;}
 }
 .contact-bg{
     background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/contact-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.quality-ass-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/quality-anss-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mf-bg{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../images/banner-bg/mf-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
