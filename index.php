@@ -7,38 +7,22 @@ include 'header.php';
 
 <!-- hero section start...... -->
 <section class="home" id="home">
-    <div class="owl-carousel slider">
-        <div class="item">
-            <div class="box" style="background-image: url(./assets/images/slide/slide-11.jpg);">
-                <div class="content">
-                    <h3>Brass Products</h3>
-                    <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
-                            Consequatur Saepe Aliquam,</p>
-                        <a href="#" class="btn">Get started</a> -->
-                </div>
-            </div>
+    <div class="slider-bg">
+
+        <div class="slide active" style="background-image: url(./assets/images/slide/slide-11.jpg);">
         </div>
-        <div class="item">
-            <div class="box  second" style="background-image: url(./assets/images/slide/slide-22.jpg);">
-                <div class="content">
-                    <h3>steel products</h3>
-                    <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
-                            Consequatur Saepe Aliquam, Excepturi Delectus Consequuntur Minus!</p>
-                        <a href="#" class="btn">Get started</a> -->
-                </div>
-            </div>
+        <div class="slide" style="background-image: url(./assets/images/slide/slide-22.jpg);">
         </div>
-        <div class="item">
-            <div class="box second" style="background-image: url(./assets/images/slide/slide-4.jpg);">
-                <div class="content">
-                    <h3>Copper Products</h3>
-                    <!-- <p>Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Impedit Unde Ex Molestias Soluta
-                            Consequatur Saepe Aliquam,</p>
-                        <a href="#" class="btn">Get started</a> -->
-                </div>
-            </div>
+        <div class="slide" style="background-image: url(./assets/images/slide/slide-4.jpg);">
         </div>
     </div>
+    <button class="arrow left-arrow" id="left">
+        <i class="fa fa-arrow-left"></i>
+    </button>
+    <button class="arrow right-arrow" id="right">
+        <i class="fa fa-arrow-right"></i>
+    </button>
+
 </section>
 <!-- hero section end...... -->
 
@@ -230,7 +214,7 @@ include 'header.php';
                             <img src="./assets/images/Products/customized.jpg" alt="product-1">
                             <div class="img-info">
                                 <h3 class="img-title">
-                                 Customize Parts
+                                    Customize Parts
                                 </h3>
                             </div>
                             <a href="customize-parts.php" class="link-icon">

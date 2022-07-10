@@ -36,16 +36,7 @@ overlay.onclick = () =>{
     side_menu.classList.remove('active');
 }
 
-//search from add script ............
-// let searchfrm = document.querySelector('.search_frm');
-// document.querySelector('#search-btn').onclick = () =>{
-//     searchfrm.classList.add('active');
-// }
 
-//side menu search button close script................
-// document.querySelector('#close_frm').onclick = () =>{
-//     searchfrm.classList.remove('active');
-// }
 
 //scroll web page add header bg color.....
 let header = document.querySelector('.header');
@@ -66,25 +57,57 @@ window.onscroll = () => {
 };
 
 //home slider script.........
+const body =  document.querySelector(".home");
+const slides = document.querySelectorAll(".slide");
+const leftButton = document.getElementById("left");
+const rightButton = document.getElementById("right");
 
-$('.slider').owlCarousel({
-    loop:true,
-    autoplay:true,
-    autoplayTimeout:5000,
-    autoplayHoverPause:true,
-    margin:0,
-    nav:true,
-    dots: false,
-    navText: [
-        "<i class='fas fa-angle-left'></i>",
-        "<i class='fas fa-angle-right'></i>"
-      ],
-    responsive:{
-        0:{
-            items:1
-        }
-    }
+let activeSlide = 0;
+
+const setBackground = () => {
+  body.style.backgroundImage = slides[activeSlide].style.backgroundImage;
+};
+
+const setActiveSlide = () => {
+  slides.forEach((slide) => slide.classList.remove("active"));
+  slides[activeSlide].classList.add("active");
+};
+
+rightButton.addEventListener("click", () => {
+  activeSlide++;
+  if (activeSlide > slides.length - 1) activeSlide = 0;
+  setBackground();
+  setActiveSlide();
 });
+
+leftButton.addEventListener("click", () => {
+  activeSlide--;
+  if (activeSlide < 0) activeSlide = slides.length - 1;
+  setBackground();
+  setActiveSlide();
+});
+
+setBackground();
+
+
+// $('.slider').owlCarousel({
+//     loop:true,
+//     autoplay:true,
+//     autoplayTimeout:5000,
+//     autoplayHoverPause:true,
+//     margin:0,
+//     nav:true,
+//     dots: false,
+//     navText: [
+//         "<i class='fas fa-angle-left'></i>",
+//         "<i class='fas fa-angle-right'></i>"
+//       ],
+//     responsive:{
+//         0:{
+//             items:1
+//         }
+//     }
+// });
 
 // shop slider script............
 $('.shop-slider').owlCarousel({

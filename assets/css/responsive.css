@@ -11,8 +11,12 @@
 @media (max-width:768px){
     .navbar .icons #menu-bar{display: initial;}
     .header .navbar .menu{display: none;}
-    .home .box{min-height: 58vh;}
-    .home .box{background-position: left !important;justify-content: center;}
+    .home{height: 60vh;}
+    .home::before{height: 60vh;}
+    .home .slider-bg {height: 30vh;width: 60vw;}
+    .home .arrow{top: 30%;padding: 10px;font-size: 14px;}
+    .home .left-arrow {left: calc(15vw - 25px);}
+    .home .right-arrow {right: calc(15vw - 25px);}
     .home .second{background-position: right !important;justify-content: center;}
     .side_bar.active{left: 0;}
     .side_navbar.active{display: block;}
